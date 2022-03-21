@@ -8,6 +8,7 @@ namespace Simulación_examen_parcial
 {
     internal class Departamento
     {
+        public int numDep { get; set; }
         public string nombre { get; set; }
     }
 }
